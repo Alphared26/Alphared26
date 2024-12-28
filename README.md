@@ -1,6 +1,7 @@
+<img align="center" alt="miata" width="400" src="https://i.pinimg.com/originals/11/ea/39/11ea394a2060a269fb85ed811cca70fe.gif">
+
 ## Hola👋 ##
 
-  <img align="right" alt="miata" width="400" src="https://i.pinimg.com/originals/11/ea/39/11ea394a2060a269fb85ed811cca70fe.gif">
 
 I'm Alphared or some people called me Gavin by my username. i just curious person that want to learn anything even tho it wont be nothing
 
