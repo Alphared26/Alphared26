@@ -15,6 +15,7 @@ I'm Alphared or some people called me Gavin by my username. i just curious perso
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alphared26&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=s4qtgnvehi7qpn8onp0rlfro3&count=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
