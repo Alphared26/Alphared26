@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&pause=1000&color=F70000&random=true&width=435&lines=HOLA+I'M+GAVIN+ALPHARED+26%F0%9F%91%8B)](https://git.io/typing-svg) ##
 
 
-I'm Alphared or some people called me Gavin by my username. i just curious person that want to learn anything even tho it wont be nothing:sweat_smile:
+I'm Alphared or some people called me Gavin by my username. i just curious person that want to learn anything even tho it wont be nothing :sweat_smile:
 
 - 🔭 I’m currently working on everything i want
 - 🌱 I’m currently learning C++ and HTML
