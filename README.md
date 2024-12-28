@@ -15,8 +15,14 @@ I'm Alphared or some people called me Gavin by my username. i just curious perso
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alphared26&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
+<br>
+ 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=s4qtgnvehi7qpn8onp0rlfro3)](https://open.spotify.com/user/s4qtgnvehi7qpn8onp0rlfro3)
 
+<br>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mayolus-gavin-0b79162b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
