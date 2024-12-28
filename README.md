@@ -1,6 +1,6 @@
 <img align="center" alt="miata" width="400" src="https://i.pinimg.com/originals/11/ea/39/11ea394a2060a269fb85ed811cca70fe.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&pause=1000&color=F70000&random=true&width=435&lines=HOLA+I'M+GAVIN+ALPHARED+26%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&pause=1000&color=F70000&random=true&width=435&lines=HOLA+I'M+GAVIN+ALPHARED+26%F0%9F%91%8B)](https://git.io/typing-svg) ##
 
 
 I'm Alphared or some people called me Gavin by my username. i just curious person that want to learn anything even tho it wont be nothing
