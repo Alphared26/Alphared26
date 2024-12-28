@@ -6,7 +6,7 @@ I'm Alphared or some people called me Gavin by my username. i just curious perso
 - 🌱 I’m currently learning C++ and HTML
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=Alphared26](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphared26&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alphared26" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alphared26&layout=compact&langs_count=8&card_width=320" />
