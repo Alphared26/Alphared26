@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=305&color=random&text=Gavin%20Alphared&animation=blink&desc=Eat%20Loser%20For%20Breakfast&descAlign=50&descAlignY=66&fontColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=305&color=random&text=Gavin%20Alphared&animation=blink&desc=Eat%20Loser%20For%20Breakfast&descAlign=50&descAlignY=66&fontColor=FFFFFF" width="150%"/>
 
 
 
